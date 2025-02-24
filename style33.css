@@ -1,0 +1,57 @@
+.header {
+  padding: 6px;
+  text-align: center;
+  background: #b24661;
+  color: white;
+  font-size: 20px;
+}
+.menu {
+  padding: 3px;
+  text-align: center;
+  background: #952f46;
+  color: white;
+  font-size: 15px;
+}
+.aside1, .aside2 {
+  width: 400px;
+  float: left;
+  padding: 3px;
+  text-align: center;
+  background: #d05679;
+  color: white;
+  font-size: 15px;
+}
+.main {
+  width: 800px;
+  float: centr;
+  padding: 50px;
+  text-align: center;
+  background: #d05679;
+  color: white;
+  font-size: 30px;
+}
+.aside3 {
+  width: 30px;
+  float: right;
+  padding: 3px;
+  text-align: center;
+  background: #d05679;
+  color: white;
+  font-size: 15px;
+}
+.section, .section {
+  float: centr;
+  padding: 3px;
+  text-align: center;
+  background: #ee82ee;
+  color: white;
+  font-size: 15px;
+}
+.footer {
+  padding: 3px;
+  text-align: center;
+  background: #952f46;
+  color: white;
+  font-size: 15px;
+}
+
